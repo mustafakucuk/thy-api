@@ -1,13 +1,11 @@
 <?php 
 
-namespace THY;
-
 /**
  * @author Mustafa KÜÇÜK
  *
  * Turkish Airlines API Class
  * API URL : https://developer.turkishairlines.com
- * API Doumantion : https://developer.turkishairlines.com/documentation 
+ * API Documantion : https://developer.turkishairlines.com/documentation 
  */
 
 class THYAPI
